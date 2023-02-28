@@ -1,4 +1,36 @@
-### Hi there 👋
+## Hi there, I'm Sergey 
+
+**Beginner java-developer**
+
+<!--![](https://komarev.com/ghpvc/?username=svlgerasimov)-->
+
+<!--👋-->
+
+---
+
+### Languages and tools
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+### My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svlgerasimov)](https://github.com/anuraghazra/github-readme-stats)
+
+### Codewars
+
+[![codewars](https://www.codewars.com/users/svlg/badges/large)](https://www.codewars.com/users/svlg) 
+
+### LeetCode
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nisht84&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **svlgerasimov/svlgerasimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
