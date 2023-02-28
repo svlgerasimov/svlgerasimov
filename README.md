@@ -35,7 +35,7 @@
 
 ### LeetCode
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nisht84&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nisht84&theme=dark)](https://leetcode.com/nisht84)
 
 <!--
 **svlgerasimov/svlgerasimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
