@@ -1,6 +1,11 @@
-## Hi there, I'm Sergey 
+<h1 align="center">Hi there, I'm Sergey </h1>
+<h3 align="center">Beginner java-developer</h3>
+
+<!--## Hi there, I'm Sergey 
 
 **Beginner java-developer**
+-->
+<!--<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">-->
 
 <!--![](https://komarev.com/ghpvc/?username=svlgerasimov)-->
 
