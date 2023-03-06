@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Sergey </h1>
-<h3 align="center">Beginner java-developer</h3>
+<!-- <h3 align="center">Beginner java-developer</h3> -->
+
+**Beginner java-developer**
+
+📫 How to reach me: svlgerasimov@yandex.ru
 
 <!--## Hi there, I'm Sergey 
 
