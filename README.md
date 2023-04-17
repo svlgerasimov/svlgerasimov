@@ -33,6 +33,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svlgerasimov)](https://github.com/svlgerasimov)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ### Codewars
 
 [![codewars](https://www.codewars.com/users/svlg/badges/large)](https://www.codewars.com/users/svlg) 
