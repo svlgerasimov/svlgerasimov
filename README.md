@@ -3,7 +3,8 @@
 
 **Beginner java-developer**
 
-📫 How to reach me: svlgerasimov@yandex.ru
+<!-- 📫 How to reach me: svlgerasimov@yandex.ru -->
+📫 How to reach me: s.gerasimov@mail.ru
 
 <!--## Hi there, I'm Sergey 
 
